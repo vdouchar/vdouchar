@@ -39,8 +39,6 @@ Here are some of the technologies I enjoy working with.
 
 ## 🔗 Find Me Online
 
-Since you don't use Twitter, here are a few other professional platforms you can use:
-
 | Platform | Description |
 | :--- | :--- |
 | **LinkedIn** | Vincent Douchar(https://www.linkedin.com/in/vincent-douchar-a84190385/) |
